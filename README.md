@@ -1,1 +1,1 @@
-# euclides_algorithm
+# Euclidean_algorithm
